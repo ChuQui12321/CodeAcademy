@@ -1,0 +1,3 @@
+from Welcome import *
+
+welcome()
